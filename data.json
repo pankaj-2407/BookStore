@@ -776,20 +776,8 @@
       "description": "An overview of the personal and professional life of the conservative commentator Tucker Carlson.",
       "book_image": "https://storage.googleapis.com/du-prd/books/images/9781958682012.jpg",
       "price": "0.00",
-      "buy_links": "https://www.amazon.com/dp/1958682012?tag=NYTBSREV-20"
-    },
-    {
-      "book_id": 61,
-      "title": "TUCKER",
-      "author": "Chadwick Moore",
-      "contributor": "by Chadwick Moore",
-      "publisher": "All Seasons",
-      "category": "Hardcover Nonfiction",
-      "description": "An overview of the personal and professional life of the conservative commentator Tucker Carlson.",
-      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781958682012.jpg",
-      "price": "0.00",
+      "discount": 10,
       "buy_links": "https://www.amazon.com/dp/1958682012?tag=NYTBSREV-20"
     }
-    
   ]
 }
