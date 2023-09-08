@@ -1169,6 +1169,20 @@
       "price": "0.00",
       "Discount": 91,
       "buy_links": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=NYTBSREV-20"
+    },
+
+     {
+      "book_id": 91,
+      "title": "THE IMMORTAL LIFE OF HENRIETTA LACKS",
+      "author": "Rebecca Skloot",
+      "contributor": "by Rebecca Skloot",
+      "publisher": "Broadway",
+      "category": "Paperback Nonfiction",
+      "description": "The story of a woman whose cancer cells were cultured without her permission in 1951.",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781400052189.jpg",
+      "price": "0.00",
+      "Discount": 91,
+      "buy_links": "http://www.amazon.com/The-Immortal-Life-Henrietta-Lacks/dp/1400052181?tag=NYTBSREV-20"
     }
     
     
