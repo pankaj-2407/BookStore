@@ -1,7 +1,7 @@
 {
     "lists": [
       {
-        "book_id": 1,
+        "book_quantity": 1,
         "title": "FOURTH WING",
         "author": "Rebecca Yarros",
         "contributor": "by Rebecca Yarros",
@@ -14,7 +14,7 @@
         "buy_links": "https://www.amazon.com/dp/1649374046?tag=NYTBSREV-20"
       },
       {
-        "book_id": 2,
+        "book_quantity": 2,
         "title": "ASSISTANT TO THE VILLAIN",
         "author": "Hannah Nicole Maehrer",
         "contributor": "by Hannah Nicole Maehrer",
@@ -27,7 +27,7 @@
         "buy_links": "https://www.amazon.com/dp/1649375808?tag=NYTBSREV-20"
       },
       {
-        "book_id": 3,
+        "book_quantity": 3,
         "title": "TOM LAKE",
         "author": "Ann Patchett",
         "contributor": "by Ann Patchett",
@@ -40,7 +40,7 @@
         "buy_links": "https://www.amazon.com/dp/006332752X?tag=NYTBSREV-20"
       },
       {
-        "book_id": 4,
+        "book_quantity": 4,
         "title": "THE COWORKER",
         "author": "Freida McFadden",
         "contributor": "by Freida McFadden",
@@ -53,7 +53,7 @@
         "buy_links": "https://www.amazon.com/dp/172829620X?tag=NYTBSREV-20"
       },
       {
-        "book_id": 5,
+        "book_quantity": 5,
         "title": "THE BREAKAWAY",
         "author": "Jennifer Weiner",
         "contributor": "by Jennifer Weiner",
@@ -66,7 +66,7 @@
         "buy_links": "https://www.amazon.com/dp/1668033429?tag=NYTBSREV-20"
       },
       {
-        "book_id": 6,
+        "book_quantity": 1,
         "title": "THE HOUSEMAID",
         "author": "Freida McFadden",
         "contributor": "by Freida McFadden",
@@ -79,7 +79,7 @@
         "buy_links": "https://www.amazon.com/dp/1538742578?tag=NYTBSREV-20"
       },
       {
-        "book_id": 7,
+        "book_quantity": 2,
         "title": "TOO LATE",
         "author": "Colleen Hoover",
         "contributor": "by Colleen Hoover",
@@ -92,7 +92,7 @@
         "buy_links": "https://www.amazon.com/dp/1538756595?tag=NYTBSREV-20"
       },
       {
-        "book_id": 9,
+        "book_quantity": 3,
         "title": "IT ENDS WITH US",
         "author": "Colleen Hoover",
         "contributor": "by Colleen Hoover",
@@ -105,7 +105,7 @@
         "buy_links": "http://www.amazon.com/Ends-Us-Novel-Colleen-Hoover-ebook/dp/B0176M3U10?tag=NYTBSREV-20"
       },
       {
-        "book_id": 10,
+        "book_quantity": 4,
         "title": "LESSONS IN CHEMISTRY",
         "author": "Bonnie Garmus",
         "contributor": "by Bonnie Garmus",
@@ -118,7 +118,7 @@
         "buy_links": "https://www.amazon.com/dp/038554734X?tag=NYTBSREV-20"
       },
       {
-        "book_id": 11,
+        "book_quantity": 5,
         "title": "THE COVENANT OF WATER",
         "author": "Abraham Verghese",
         "contributor": "by Abraham Verghese",
@@ -131,7 +131,7 @@
         "buy_links": "https://www.amazon.com/dp/0802162177?tag=NYTBSREV-20"
       },
       {
-        "book_id": 12,
+        "book_quantity": 0,
         "title": "DEMON COPPERHEAD",
         "author": "Barbara Kingsolver",
         "contributor": "by Barbara Kingsolver",
@@ -144,7 +144,7 @@
         "buy_links": "https://www.amazon.com/dp/0063251922?tag=NYTBSREV-20"
       },
       {
-        "book_id": 14,
+        "book_quantity": 1,
         "title": "VERITY",
         "author": "Colleen Hoover",
         "contributor": "by Colleen Hoover",
@@ -157,7 +157,7 @@
         "buy_links": "https://www.amazon.com/dp/1791392792?tag=NYTBSREV-20"
       },
       {
-        "book_id": 15,
+        "book_quantity": 2,
         "title": "IT STARTS WITH US",
         "author": "Colleen Hoover",
         "contributor": "by Colleen Hoover",
@@ -170,7 +170,7 @@
         "buy_links": "https://www.amazon.com/dp/1668001225?tag=NYTBSREV-20"
       },
       {
-        "book_id": 18,
+        "book_quantity": 3,
         "title": "OUTLIVE",
         "author": "Peter Attia with Bill Gifford",
         "contributor": "by Peter Attia with Bill Gifford",
@@ -183,7 +183,7 @@
         "buy_links": "https://www.amazon.com/dp/0593236599?tag=NYTBSREV-20"
       },
       {
-        "book_id": 19,
+        "book_quantity": 4,
         "title": "AMERICAN PROMETHEUS",
         "author": "Kai Bird and Martin J. Sherwin",
         "contributor": "by Kai Bird and Martin J. Sherwin",
@@ -196,7 +196,7 @@
         "buy_links": "https://www.amazon.com/dp/0375726268?tag=NYTBSREV-20"
       },
       {
-        "book_id": 20,
+        "book_quantity": 5,
         "title": "THE WAGER",
         "author": "David Grann",
         "contributor": "by David Grann",
@@ -209,7 +209,7 @@
         "buy_links": "https://www.amazon.com/dp/0385534264?tag=NYTBSREV-20"
       }, 
       {
-        "book_id": 21,
+        "book_quantity": 0,
         "title": "I'M GLAD MY MOM DIED",
         "author": "Jennette McCurdy",
         "contributor": "by Jennette McCurdy",
@@ -222,7 +222,7 @@
         "buy_links": "https://www.amazon.com/dp/1982185821?tag=NYTBSREV-20"
       },
       {
-        "book_id": 22,
+        "book_quantity": 1,
         "title": "GAMBLER",
         "author": "Billy Walters with Armen Keteyian",
         "contributor": "by Billy Walters with Armen Keteyian",
@@ -235,7 +235,7 @@
         "buy_links": "https://www.amazon.com/dp/1668032856?tag=NYTBSREV-20"
       },
       {
-        "book_id": 23,
+        "book_quantity": 2,
         "title": "BRAIDING SWEETGRASS",
         "author": "Robin Wall Kimmerer",
         "contributor": "by Robin Wall Kimmerer",
@@ -248,7 +248,7 @@
         "buy_links": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20"
       },
       {
-        "book_id": 24,
+        "book_quantity": 3,
         "title": "AN IMMENSE WORLD",
         "author": "Ed Yong",
         "contributor": "by Ed Yong",
@@ -261,7 +261,7 @@
         "buy_links": "https://www.amazon.com/dp/0593133234?tag=NYTBSREV-20"
       },
       {
-        "book_id": 25,
+        "book_quantity": 4,
         "title": "CRYING IN H MART",
         "author": "Michelle Zauner",
         "contributor": "by Michelle Zauner",
@@ -274,7 +274,7 @@
         "buy_links": "https://www.amazon.com/dp/0525657746?tag=NYTBSREV-20"
       },
       {
-        "book_id": 26,
+        "book_quantity": 5,
         "title": "VAX-UNVAX",
         "author": "Robert F. Kennedy and Brian Hooker",
         "contributor": "by Robert F. Kennedy and Brian Hooker",
@@ -287,7 +287,7 @@
         "buy_links": "https://www.amazon.com/dp/1510766960?tag=NYTBSREV-20"
       },
       {
-        "book_id": 27,
+        "book_quantity": 1,
         "title": "BORN A CRIME",
         "author": "Trevor Noah",
         "contributor": "by Trevor Noah",
@@ -300,7 +300,7 @@
         "buy_links": "https://www.amazon.com/Born-Crime-Stories-African-Childhood-ebook/dp/B01DHWACVY?tag=NYTBSREV-20"
       },
       {
-        "book_id": 29,
+        "book_quantity": 0,
         "title": "ALL ABOUT LOVE",
         "author": "bell hooks",
         "contributor": "by bell hooks",
@@ -309,11 +309,11 @@
         "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
         "book_image": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
         "price": "0.00",
-        "discount": 42,
+        "discount": 2,
         "buy_links": "https://www.amazon.com/dp/0060959479?tag=NYTBSREV-20"
       },
       {
-        "book_id": 30,
+        "book_quantity": 3,
         "title": "EDUCATED",
         "author": "Tara Westover",
         "contributor": "by Tara Westover",
@@ -326,7 +326,7 @@
         "buy_links": "https://www.amazon.com/dp/0399590501?tag=NYTBSREV-20"
       },
       {
-        "book_id": 31,
+        "book_quantity": 4,
         "title": "FOURTH WING",
         "author": "Rebecca Yarros",
         "contributor": "by Rebecca Yarros",
@@ -339,7 +339,7 @@
         "buy_links": "https://www.amazon.com/dp/1649374046?tag=NYTBSREV-20"
       },
       {
-        "book_id": 32,
+        "book_quantity": 5,
         "title": "TOM LAKE",
         "author": "Ann Patchett",
         "contributor": "by Ann Patchett",
@@ -352,7 +352,7 @@
         "buy_links": "https://www.amazon.com/dp/006332752X?tag=NYTBSREV-20"
       },
       {
-        "book_id": 33,
+        "book_quantity": 0,
         "title": "LESSONS IN CHEMISTRY",
         "author": "Bonnie Garmus",
         "contributor": "by Bonnie Garmus",
@@ -365,7 +365,7 @@
         "buy_links": "https://www.amazon.com/dp/038554734X?tag=NYTBSREV-20"
       },
       {
-        "book_id": 34,
+        "book_quantity": 6,
         "title": "DEMON COPPERHEAD",
         "author": "Barbara Kingsolver",
         "contributor": "by Barbara Kingsolver",
@@ -378,7 +378,7 @@
         "buy_links": "https://www.amazon.com/dp/0063251922?tag=NYTBSREV-20"
       },
       {
-        "book_id": 35,
+        "book_quantity": 4,
         "title": "THE BREAKAWAY",
         "author": "Jennifer Weiner",
         "contributor": "by Jennifer Weiner",
@@ -391,7 +391,7 @@
         "buy_links": "https://www.amazon.com/dp/1668033429?tag=NYTBSREV-20"
       },
       {
-        "book_id": 37,
+        "book_quantity": 1,
         "title": "THE COVENANT OF WATER",
         "author": "Abraham Verghese",
         "contributor": "by Abraham Verghese",
@@ -404,7 +404,7 @@
         "buy_links": "https://www.amazon.com/dp/0802162177?tag=NYTBSREV-20"
       },
       {
-        "book_id": 39,
+        "book_quantity": 1,
         "title": "NONE OF THIS IS TRUE",
         "author": "Lisa Jewell",
         "contributor": "by Lisa Jewell",
@@ -417,7 +417,7 @@
         "buy_links": "https://www.amazon.com/dp/1982179007?tag=NYTBSREV-20"
       },
       {
-        "book_id": 40,
+        "book_quantity": 2,
         "title": "LION & LAMB",
         "author": "James Patterson and Duane Swierczynski",
         "contributor": "by James Patterson and Duane Swierczynski",
@@ -431,7 +431,7 @@
       },
       
       {
-        "book_id": 42,
+        "book_quantity": 1,
         "title": "HAPPINESS FALLS",
         "author": "Angie Kim",
         "contributor": "by Angie Kim",
@@ -444,7 +444,7 @@
         "buy_links": "https://www.amazon.com/dp/0593448200?tag=NYTBSREV-20"
       },
       {
-        "book_id": 43,
+        "book_quantity": 3,
         "title": "HAPPY PLACE",
         "author": "Emily Henry",
         "contributor": "by Emily Henry",
@@ -457,7 +457,7 @@
         "buy_links": "https://www.amazon.com/dp/0593441273?tag=NYTBSREV-20"
       },
       {
-        "book_id": 44,
+        "book_quantity": 3,
         "title": "MASTERS OF DEATH",
         "author": "Olivie Blake",
         "contributor": "by Olivie Blake",
@@ -471,7 +471,7 @@
       },
       
       {
-        "book_id": 46,
+        "book_quantity": 2,
         "title": "OUTLIVE",
         "author": "Peter Attia with Bill Gifford",
         "contributor": "by Peter Attia with Bill Gifford",
@@ -484,7 +484,7 @@
         "buy_links": "https://www.amazon.com/dp/0593236599?tag=NYTBSREV-20"
       },
       {
-        "book_id": 47,
+        "book_quantity": 4,
         "title": "THE WAGER",
         "author": "David Grann",
         "contributor": "by David Grann",
@@ -497,7 +497,7 @@
         "buy_links": "https://www.amazon.com/dp/0385534264?tag=NYTBSREV-20"
       },
       {
-        "book_id": 48,
+        "book_quantity": 4,
         "title": "I'M GLAD MY MOM DIED",
         "author": "Jennette McCurdy",
         "contributor": "by Jennette McCurdy",
@@ -510,7 +510,7 @@
         "buy_links": "https://www.amazon.com/dp/1982185821?tag=NYTBSREV-20"
       },
       {
-        "book_id": 49,
+        "book_quantity": 2,
         "title": "GAMBLER",
         "author": "Billy Walters with Armen Keteyian",
         "contributor": "by Billy Walters with Armen Keteyian",
@@ -523,7 +523,7 @@
         "buy_links": "https://www.amazon.com/dp/1668032856?tag=NYTBSREV-20"
       },
       {
-        "book_id": 50,
+        "book_quantity": 5,
         "title": "POVERTY, BY AMERICA",
         "author": "Matthew Desmond",
         "contributor": "by Matthew Desmond",
@@ -536,7 +536,7 @@
         "buy_links": "https://www.amazon.com/dp/0593239911?tag=NYTBSREV-20"
       },
       {
-        "book_id": 51,
+        "book_quantity": 5,
         "title": "NEVER ENOUGH",
         "author": "Jennifer Breheny Wallace",
         "contributor": "by Jennifer Breheny Wallace",
@@ -549,7 +549,7 @@
         "buy_links": "https://www.amazon.com/dp/0593191862?tag=NYTBSREV-20"
       },
       {
-        "book_id": 52,
+        "book_quantity": 5,
         "title": "THE IN-BETWEEN",
         "author": "Hadley Vlahos",
         "contributor": "by Hadley Vlahos",
@@ -562,7 +562,7 @@
         "buy_links": "https://www.amazon.com/dp/059349993X?tag=NYTBSREV-20"
      },
      {
-      "book_id": 53,
+      "book_quantity": 3,
       "title": "WHAT HAPPENED TO YOU?",
       "author": "Bruce D. Perry and Oprah Winfrey",
       "contributor": "by Bruce D. Perry and Oprah Winfrey",
@@ -575,7 +575,7 @@
       "buy_links": "https://www.amazon.com/dp/1250223180?tag=NYTBSREV-20"
       },
       {
-        "book_id": 54,
+        "book_quantity": 4,
         "title": "BEYOND THE STORY",
         "author": "BTS and Myeongseok Kang",
         "contributor": "by BTS and Myeongseok Kang",
@@ -588,7 +588,7 @@
         "buy_links": "https://www.amazon.com/dp/1250326753?tag=NYTBSREV-20"
     },
     {
-      "book_id": 55,
+      "book_quantity": 5,
       "title": "ADVERSITY FOR SALE",
       "author": "Jay \"Jeezy\" Jenkins with Benjamin Meadows-Ingram",
       "contributor": "by Jay \"Jeezy\" Jenkins with Benjamin Meadows-Ingram",
@@ -601,7 +601,7 @@
       "buy_links": "https://www.amazon.com/dp/1400236258?tag=NYTBSREV-20"
       },
       {
-        "book_id": 56,
+        "book_quantity": 6,
         "title": "VAX-UNVAX",
         "author": "Robert F. Kennedy and Brian Hooker",
         "contributor": "by Robert F. Kennedy and Brian Hooker",
@@ -614,7 +614,7 @@
         "buy_links": "https://www.amazon.com/dp/1510766960?tag=NYTBSREV-20"
       },
       {
-        "book_id": 57,
+        "book_quantity": 2,
         "title": "THINK AGAIN",
         "author": "Adam Grant",
         "contributor": "by Adam Grant",
@@ -628,7 +628,7 @@
       },
       
       {
-        "book_id": 59,
+        "book_quantity": 2,
         "title": "PAGEBOY",
         "author": "Elliot Page",
         "contributor": "by Elliot Page",
@@ -641,7 +641,7 @@
         "buy_links": "https://www.amazon.com/dp/1250878357?tag=NYTBSREV-20"
       },
       {
-        "book_id": 60,
+        "book_quantity": 3,
         "title": "TUCKER",
         "author": "Chadwick Moore",
         "contributor": "by Chadwick Moore",
@@ -654,7 +654,7 @@
         "buy_links": "https://www.amazon.com/dp/1958682012?tag=NYTBSREV-20"
       },
       {
-        "book_id": 61,
+        "book_quantity": 4,
         "title": "ASSISTANT TO THE VILLAIN",
         "author": "Hannah Nicole Maehrer",
         "contributor": "by Hannah Nicole Maehrer",
@@ -667,7 +667,7 @@
         "buy_links": "https://www.amazon.com/dp/1649375808?tag=NYTBSREV-20"
       },
       {
-        "book_id": 62,
+        "book_quantity": 2,
         "title": "TOO LATE",
         "author": "Colleen Hoover",
         "contributor": "by Colleen Hoover",
@@ -680,7 +680,7 @@
         "buy_links": "https://www.amazon.com/dp/1538756595?tag=NYTBSREV-20"
       },
       {
-        "book_id": 63,
+        "book_quantity": 3,
         "title": "IT ENDS WITH US",
         "author": "Colleen Hoover",
         "contributor": "by Colleen Hoover",
@@ -693,7 +693,7 @@
         "buy_links": "http://www.amazon.com/Ends-Us-Novel-Colleen-Hoover-ebook/dp/B0176M3U10?tag=NYTBSREV-20"
       },
       {
-        "book_id": 64,
+        "book_quantity": 4,
         "title": "THE HOUSEMAID",
         "author": "Freida McFadden",
         "contributor": "by Freida McFadden",
@@ -706,7 +706,7 @@
         "buy_links": "https://www.amazon.com/dp/1538742578?tag=NYTBSREV-20"
       },
       {
-        "book_id": 65,
+        "book_quantity": 5,
         "title": "THE COWORKER",
         "author": "Freida McFadden",
         "contributor": "by Freida McFadden",
@@ -719,7 +719,7 @@
         "buy_links": "https://www.amazon.com/dp/172829620X?tag=NYTBSREV-20"
       },
       {
-        "book_id": 66,
+        "book_quantity": 6,
         "title": "ICEBREAKER",
         "author": "Hannah Grace",
         "contributor": "by Hannah Grace",
@@ -732,7 +732,7 @@
         "buy_links": "https://www.amazon.com/dp/1668026031?tag=NYTBSREV-20"
       },
       {
-        "book_id": 67,
+        "book_quantity": 1,
         "title": "IT STARTS WITH US",
         "author": "Colleen Hoover",
         "contributor": "by Colleen Hoover",
@@ -745,7 +745,7 @@
         "buy_links": "https://www.amazon.com/dp/1668001225?tag=NYTBSREV-20"
       },
       {
-        "book_id": 68,
+        "book_quantity": 0,
         "title": "VERITY",
         "author": "Colleen Hoover",
         "contributor": "by Colleen Hoover",
@@ -758,7 +758,7 @@
         "buy_links": "https://www.amazon.com/dp/1791392792?tag=NYTBSREV-20"
       },
       {
-        "book_id": 70,
+        "book_quantity": 0,
         "title": "A LITTLE LIFE",
         "author": "Hanya Yanagihara",
         "contributor": "by Hanya Yanagihara",
@@ -771,7 +771,7 @@
         "buy_links": "https://www.amazon.com/dp/0804172706?tag=NYTBSREV-20"
       },
       {
-        "book_id": 71,
+        "book_quantity": 1,
         "title": "TWISTED LOVE",
         "author": "Ana Huang",
         "contributor": "by Ana Huang",
@@ -784,7 +784,7 @@
         "buy_links": "https://www.amazon.com/dp/1728274869?tag=NYTBSREV-20"
       },
       {
-        "book_id": 72,
+        "book_quantity": 2,
         "title": "DREAMLAND",
         "author": "Nicholas Sparks",
         "contributor": "by Nicholas Sparks",
@@ -797,7 +797,7 @@
         "buy_links": "https://www.amazon.com/dp/059344955X?tag=NYTBSREV-20"
       },
       {
-        "book_id": 73,
+        "book_quantity": 3,
         "title": "BABEL",
         "author": "R.F. Kuang",
         "contributor": "by R.F. Kuang",
@@ -810,7 +810,7 @@
         "buy_links": "https://www.amazon.com/dp/0063021420?tag=NYTBSREV-20"
       },
       {
-        "book_id": 74,
+        "book_quantity": 4,
         "title": "THE SILENT PATIENT",
         "author": "Alex Michaelides",
         "contributor": "by Alex Michaelides",
@@ -823,7 +823,7 @@
         "buy_links": "https://www.amazon.com/Silent-Patient-Alex-Michaelides/dp/1250301696?tag=NYTBSREV-20"
       },
       {
-        "book_id": 78,
+        "book_quantity": 7,
         "title": "AMERICAN PROMETHEUS",
         "author": "Kai Bird and Martin J. Sherwin",
         "contributor": "by Kai Bird and Martin J. Sherwin",
@@ -836,7 +836,7 @@
         "buy_links": "https://www.amazon.com/dp/0375726268?tag=NYTBSREV-20"
       },
       {
-        "book_id": 79,
+        "book_quantity": 9,
         "title": "BRAIDING SWEETGRASS",
         "author": "Robin Wall Kimmerer",
         "contributor": "by Robin Wall Kimmerer",
@@ -849,7 +849,7 @@
         "buy_links": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20"
       },
       {
-        "book_id": 80,
+        "book_quantity": 0,
         "title": "AN IMMENSE WORLD",
         "author": "Ed Yong",
         "contributor": "by Ed Yong",
@@ -862,7 +862,7 @@
         "buy_links": "https://www.amazon.com/dp/0593133234?tag=NYTBSREV-20"
       },
       {
-        "book_id": 81,
+        "book_quantity": 1,
         "title": "CRYING IN H MART",
         "author": "Michelle Zauner",
         "contributor": "by Michelle Zauner",
@@ -875,7 +875,7 @@
         "buy_links": "https://www.amazon.com/dp/0525657746?tag=NYTBSREV-20"
       },
       {
-        "book_id": 82,
+        "book_quantity": 2,
         "title": "BORN A CRIME",
         "author": "Trevor Noah",
         "contributor": "by Trevor Noah",
@@ -888,7 +888,7 @@
         "buy_links": "https://www.amazon.com/Born-Crime-Stories-African-Childhood-ebook/dp/B01DHWACVY?tag=NYTBSREV-20"
       },
       {
-        "book_id": 84,
+        "book_quantity": 8,
         "title": "ALL ABOUT LOVE",
         "author": "bell hooks",
         "contributor": "by bell hooks",
@@ -901,7 +901,7 @@
         "buy_links": "https://www.amazon.com/dp/0060959479?tag=NYTBSREV-20"
       },
       {
-        "book_id": 85,
+        "book_quantity": 5,
         "title": "EDUCATED",
         "author": "Tara Westover",
         "contributor": "by Tara Westover",
@@ -914,7 +914,7 @@
         "buy_links": "https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501?tag=NYTBSREV-20"
       },
       {
-        "book_id": 86,
+        "book_quantity": 6,
         "title": "THE GLASS CASTLE",
         "author": "Jeannette Walls",
         "contributor": "by Jeannette Walls",
@@ -927,7 +927,7 @@
         "buy_links": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=NYTBSREV-20"
       },
       {
-        "book_id": 87,
+        "book_quantity": 1,
         "title": "THINKING, FAST AND SLOW",
         "author": "Daniel Kahneman",
         "contributor": "by Daniel Kahneman",
@@ -940,7 +940,7 @@
         "buy_links": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBSREV-20"
       },
       {
-        "book_id": 88,
+        "book_quantity": 2,
         "title": "JUST MERCY",
         "author": "Bryan Stevenson",
         "contributor": "by Bryan Stevenson",
@@ -953,7 +953,7 @@
         "buy_links": "http://www.amazon.com/Just-Mercy-Story-Justice-Redemption-ebook/dp/B00JYWVYLY?tag=NYTBSREV-20"
       },
       {
-        "book_id": 89,
+        "book_quantity": 1,
         "title": "TALKING TO STRANGERS",
         "author": "Malcolm Gladwell",
         "contributor": "by Malcolm Gladwell",
@@ -966,7 +966,7 @@
         "buy_links": "https://www.amazon.com/Talking-Strangers-Should-about-People/dp/0316478520?tag=NYTBSREV-20"
       },
       {
-        "book_id": 91,
+        "book_quantity": 1,
         "title": "OUTLIVE",
         "author": "Peter Attia with Bill Gifford",
         "contributor": "by Peter Attia with Bill Gifford",
@@ -979,7 +979,7 @@
         "buy_links": "https://www.amazon.com/dp/0593236599?tag=NYTBSREV-20"
       },
       {
-        "book_id": 92,
+        "book_quantity": 3,
         "title": "THE WAGER",
         "author": "David Grann",
         "contributor": "by David Grann",
@@ -992,7 +992,7 @@
         "buy_links": "https://www.amazon.com/dp/0385534264?tag=NYTBSREV-20"
       },
       {
-        "book_id": 93,
+        "book_quantity": 4,
         "title": "I'M GLAD MY MOM DIED",
         "author": "Jennette McCurdy",
         "contributor": "by Jennette McCurdy",
@@ -1005,7 +1005,7 @@
         "buy_links": "https://www.amazon.com/dp/1982185821?tag=NYTBSREV-20"
       },
       {
-        "book_id": 94,
+        "book_quantity": 5,
         "title": "GAMBLER",
         "author": "Billy Walters with Armen Keteyian",
         "contributor": "by Billy Walters with Armen Keteyian",
@@ -1018,7 +1018,7 @@
         "buy_links": "https://www.amazon.com/dp/1668032856?tag=NYTBSREV-20"
       },
       {
-        "book_id": 95,
+        "book_quantity": 0,
         "title": "POVERTY, BY AMERICA",
         "author": "Matthew Desmond",
         "contributor": "by Matthew Desmond",
@@ -1031,7 +1031,7 @@
         "buy_links": "https://www.amazon.com/dp/0593239911?tag=NYTBSREV-20"
       },
       {
-        "book_id": 96,
+        "book_quantity": 6,
         "title": "NEVER ENOUGH",
         "author": "Jennifer Breheny Wallace",
         "contributor": "by Jennifer Breheny Wallace",
@@ -1044,7 +1044,7 @@
         "buy_links": "https://www.amazon.com/dp/0593191862?tag=NYTBSREV-20"
       },
       {
-        "book_id": 97,
+        "book_quantity": 7,
         "title": "THE IN-BETWEEN",
         "author": "Hadley Vlahos",
         "contributor": "by Hadley Vlahos",
@@ -1057,7 +1057,7 @@
         "buy_links": "https://www.amazon.com/dp/059349993X?tag=NYTBSREV-20"
       },
       {
-        "book_id": 98,
+        "book_quantity": 8,
         "title": "WHAT HAPPENED TO YOU?",
         "author": "Bruce D. Perry and Oprah Winfrey",
         "contributor": "Bruce D. Perry and Oprah Winfrey",
@@ -1070,7 +1070,7 @@
         "buy_links": "https://www.amazon.com/dp/1250223180?tag=NYTBSREV-20"
       },
       {
-        "book_id": 99,
+        "book_quantity": 9,
         "title": "BEYOND THE STORY",
         "author": "BTS and Myeongseok Kang",
         "contributor": "BTS and Myeongseok Kang",
@@ -1083,7 +1083,7 @@
         "buy_links": "https://www.amazon.com/dp/1250326753?tag=NYTBSREV-20"
       },
       {
-        "book_id": 100,
+        "book_quantity": 10,
         "title": "ADVERSITY FOR SALE",
         "author": "Jay \"Jeezy\" Jenkins with Benjamin Meadows-Ingram",
         "contributor": "Jay \"Jeezy\" Jenkins with Benjamin Meadows-Ingram",
@@ -1096,7 +1096,7 @@
         "buy_links": "https://www.amazon.com/dp/1400236258?tag=NYTBSREV-20"
       },
       {
-        "book_id": 101,
+        "book_quantity": 1,
         "title": "VAX-UNVAX",
         "author": "Robert F. Kennedy and Brian Hooker",
         "contributor": "Robert F. Kennedy and Brian Hooker",
@@ -1109,7 +1109,7 @@
         "buy_links": "https://www.amazon.com/dp/1510766960?tag=NYTBSREV-20"
       },
       {
-        "book_id": 102,
+        "book_quantity": 2,
         "title": "THINK AGAIN",
         "author": "Adam Grant",
         "contributor": "Adam Grant",
@@ -1122,7 +1122,7 @@
         "buy_links": "https://www.amazon.com/dp/1984878107?tag=NYTBSREV-20"
       },
       {
-        "book_id": 104,
+        "book_quantity": 4,
         "title": "PAGEBOY",
         "author": "Elliot Page",
         "contributor": "Elliot Page",
@@ -1135,7 +1135,7 @@
         "buy_links": "https://www.amazon.com/dp/1250878357?tag=NYTBSREV-20"
       },
       {
-        "book_id": 105,
+        "book_quantity": 5,
         "title": "TUCKER",
         "author": "Chadwick Moore",
         "contributor": "Chadwick Moore",
