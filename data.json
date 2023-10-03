@@ -638,9 +638,259 @@
         "price": "0.00",
         "discount": 24,
         "buy_links": "https://www.amazon.com/dp/1958682012?tag=NYTBSREV-20"
+      },
+    
+      {
+        "book_quantity": 3,
+        "title": "A STUDY IN DROWNING",
+        "author": "Ava Reid",
+        "contributor": "by Ava Reid",
+        "publisher": "HarperTeen",
+        "category": "Young Adult Hardcover",
+        "description": "Dark forces try to thwart Preston and Effy's efforts to unravel the mysteries of author Emrys Myrddin's Hiraeth Manor.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063211506.jpg",
+        "price": "356.12",
+        "discount": 25,
+        "buy_links": "https://www.amazon.com/dp/0063211505?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 5,
+        "title": "DIVINE RIVALS",
+        "author": "Rebecca Ross",
+        "contributor": "by Rebecca Ross",
+        "publisher": "Wednesday",
+        "category": "Young Adult Hardcover",
+        "description": "Two young rival journalists find love through a magical connection.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+        "price": "721.38",
+        "discount": 72,
+        "buy_links": "https://www.amazon.com/dp/1250857430?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 12,
+        "title": "FOXGLOVE",
+        "author": "Adalyn Grace",
+        "contributor": "by Adalyn Grace",
+        "publisher": "Little, Brown",
+        "category": "Young Adult Hardcover",
+        "description": "Fate, Death's brother, is determined to have Signa for himself at any cost.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316565257.jpg",
+        "price": "648.97",
+        "discount": 18,
+        "buy_links": "https://www.amazon.com/dp/0316162507?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 6,
+        "title": "FIVE SURVIVE",
+        "author": "Holly Jackson",
+        "contributor": "by Holly Jackson",
+        "publisher": "Delacorte",
+        "category": "Young Adult Hardcover",
+        "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+        "price": "262.75",
+        "discount": 64,
+        "buy_links": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 11,
+        "title": "NICK AND CHARLIE",
+        "author": "Alice Oseman",
+        "contributor": "by Alice Oseman",
+        "publisher": "Scholastic",
+        "category": "Young Adult Hardcover",
+        "description": "Nick and Charlie question whether their love is strong enough to survive being apart when Nick leaves for university.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781338885101.jpg",
+        "price": "320.50",
+        "discount": 47,
+        "buy_links": "https://www.amazon.com/dp/1338885103?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 9,
+        "title": "LONG LIVE THE PUMPKIN QUEEN",
+        "author": "Shea Ernshaw",
+        "contributor": "by Shea Ernshaw",
+        "publisher": "Disney",
+        "category": "Young Adult Hardcover",
+        "description": "Sally, the new Queen of Halloween Town, must save her town from a sleeping curse.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368084383.jpg",
+        "price": "349.10",
+        "discount": 3,
+        "buy_links": "https://www.amazon.com/dp/1368069606?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 14,
+        "title": "THE SPIRIT BARES ITS TEETH",
+        "author": "Andrew Joseph White",
+        "contributor": "by Andrew Joseph White",
+        "publisher": "Peachtree Teen",
+        "category": "Young Adult Hardcover",
+        "description": "Silas Bell can hear the ghosts of missing students at Braxton's begging for help.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781682636114.jpg",
+        "price": "712.84",
+        "discount": 31,
+        "buy_links": "https://www.amazon.com/dp/1682636119?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 7,
+        "title": "SOLITAIRE",
+        "author": "Alice Oseman",
+        "contributor": "by Alice Oseman",
+        "publisher": "Scholastic",
+        "category": "Young Adult Hardcover",
+        "description": "Tori Spring is determined to find out who's behind the blog called Solitaire, which has caused serious pranks at her school.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781339016238.jpg",
+        "price": "754.26",
+        "discount": 87,
+        "buy_links": "https://www.amazon.com/dp/1338863428?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 13,
+        "title": "PRIDE AND PREJUDICE AND PITTSBURGH",
+        "author": "Rachael Lippincott",
+        "contributor": "by Rachael Lippincott",
+        "publisher": "Simon & Schuster",
+        "category": "Young Adult Hardcover",
+        "description": "Audrey Cameron is transported back in time via a magic quarter to 1812 England, where she meets Lucy Sinclair.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781665937535.jpg",
+        "price": "821.75",
+        "discount": 47,
+        "buy_links": "https://www.amazon.com/dp/166593753X?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 8,
+        "title": "CAPTAIN UNDERPANTS",
+        "author": "and   Dav Pilkey",
+        "contributor": "written and illustrated by Dav Pilkey",
+        "publisher": "Scholastic",
+        "category": "Series Books",
+        "description": "Boys and their principal fight evil.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780545175340.jpg",
+        "price": "311.67",
+        "discount": 56,
+        "buy_links": "http://www.amazon.com/Captain-Underpants-Revolting-Radioactive-Robo-Boxers/dp/0545175364?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 15,
+        "title": "MICHAEL VEY",
+        "author": "Richard Paul Evans",
+        "contributor": "by Richard Paul Evans",
+        "publisher": "Simon & Schuster",
+        "category": "Series Books",
+        "description": "Michael and his friends must disrupt the Elgen’s plans to rule the world.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781442475113.jpg",
+        "price": "578.62",
+        "discount": 72,
+        "buy_links": "http://www.amazon.com/Michael-Vey-3-Battle-Ampere/dp/1442475110?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 12,
+        "title": "THE ONE AND ONLY",
+        "author": "Katherine Applegate",
+        "contributor": "by Katherine Applegate",
+        "publisher": "HarperCollins",
+        "category": "Series Books",
+        "description": "The stories of Ivan, Bob and Ruby.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063080089.jpg",
+        "price": "511.42",
+        "discount": 95,
+        "buy_links": "https://www.amazon.com/dp/0063080087?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 4,
+        "title": "THE INHERITANCE GAMES",
+        "author": "Jennifer Lynn Barnes",
+        "contributor": "by Jennifer Lynn Barnes",
+        "publisher": "Little, Brown",
+        "category": "Series Books",
+        "description": "Avery Grambs tries to figure out why an inheritance from a stranger was bestowed upon her.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316370950.jpg",
+        "price": "245.76",
+        "discount": 84,
+        "buy_links": "https://www.amazon.com/dp/0316370959?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 15,
+        "title": "PERCY JACKSON & THE OLYMPIANS",
+        "author": "Rick Riordan",
+        "contributor": "by Rick Riordan",
+        "publisher": "Disney-Hyperion",
+        "category": "Series Books",
+        "description": "A boy battles mythological monsters.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781423131892.jpg",
+        "price": "349.28",
+        "discount": 37,
+        "buy_links": "http://www.amazon.com/Titans-Curse-Percy-Jackson-Olympians/dp/1423101480?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 13,
+        "title": "HARRY POTTER",
+        "author": "J.K. Rowling",
+        "contributor": "by J.K. Rowling",
+        "publisher": "Scholastic",
+        "category": "Series Books",
+        "description": "A wizard hones his conjuring skills in the service of fighting evil.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780590353427.jpg",
+        "price": "789.11",
+        "discount": 29,
+        "buy_links": "http://www.amazon.com/Harry-Potter-And-Order-Phoenix/dp/0439358078?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 14,
+        "title": "A GOOD GIRL'S GUIDE TO MURDER",
+        "author": "Holly Jackson",
+        "contributor": "by Holly Jackson",
+        "publisher": "Delacorte",
+        "category": "Series Books",
+        "description": "Pippa Fitz-Amobi solves murderous crimes.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593379851.jpg",
+        "price": "684.20",
+        "discount": 68,
+        "buy_links": "https://www.amazon.com/dp/0593379853?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 3,
+        "title": "THE HUNGER GAMES",
+        "author": "Suzanne Collins",
+        "contributor": "by Suzanne Collins",
+        "publisher": "Scholastic",
+        "category": "Series Books",
+        "description": "In a dystopia, a girl fights for survival on live TV.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780545663267.jpg",
+        "price": "348.57",
+        "discount": 61,
+        "buy_links": "http://www.amazon.com/Mockingjay-Final-Book-Hunger-Games/dp/0545663261?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 6,
+        "title": "DIARY OF A WIMPY KID",
+        "author": "and   Jeff Kinney",
+        "contributor": "written and illustrated by Jeff Kinney",
+        "publisher": "Amulet",
+        "category": "Series Books",
+        "description": "The travails and challenges of adolescence.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419711329.jpg",
+        "price": "100.99",
+        "discount": 10,
+        "buy_links": "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=NYTBSREV-20"
+      },
+      {
+        "book_quantity": 2,
+        "title": "THE SUMMER I TURNED PRETTY TRILOGY",
+        "author": "Jenny Han",
+        "contributor": "by Jenny Han",
+        "publisher": "Simon & Schuster",
+        "category": "Series Books",
+        "description": "A beach house, summer love and enduring friendships.",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781416995586.jpg",
+        "price": "799.99",
+        "discount": 30,
+        "buy_links": "http://www.amazon.com/Well-Always-Summer-Turned-Pretty/dp/1416995587?tag=NYTBSREV-20"
       }
+  
     ]
-  }
-    
-    
-    
+      
+}
+        
+        
+        
